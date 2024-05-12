@@ -1,0 +1,40 @@
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.exe
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.deps.json
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.runtimeconfig.json
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.dll
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\ref\tic tac toc.dll
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.pdb
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Form1.resources
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.AssemblyInfo.cs
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.dll
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\ref\tic tac toc.dll
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.pdb
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.genruntimeconfig.cache
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Form2.resources
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Form3.resources
+C:\Users\USER\Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Properties.Resources.resources
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.exe
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.deps.json
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.runtimeconfig.json
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.dll
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\ref\tic tac toc.dll
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\bin\Debug\net6.0-windows\tic tac toc.pdb
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.csproj.AssemblyReference.cache
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Form1.resources
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Form2.resources
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Form3.resources
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic_tac_toc.Properties.Resources.resources
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.csproj.GenerateResource.cache
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.AssemblyInfoInputs.cache
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.AssemblyInfo.cs
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.csproj.CoreCompileInputs.cache
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.dll
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\ref\tic tac toc.dll
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.pdb
+C:\Users\namma\Downloads\Telegram Desktop\tic tac toc\tic tac toc\obj\Debug\net6.0-windows\tic tac toc.genruntimeconfig.cache
